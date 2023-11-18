@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 13,
+    "editor.fontLigatures": true,
+
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+
+    "editor.guides.bracketPairs": "active",
+    "editor.inlineSuggest.enabled": true,
+    "editor.lineNumbers": "interval",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.renderWhitespace": "boundary",
+    "editor.suggestSelection": "first",
+    "editor.rulers": [
+        100,
+        120,
+        140
+    ],
+    "editor.linkedEditing": true,
+    "editor.snippetSuggestions": "top",
+    "editor.indentSize": "tabSize",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontSize": 13,
+}
