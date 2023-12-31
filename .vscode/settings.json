@@ -37,8 +37,12 @@
     "files.autoSave": "afterDelay",
 
     // Terminal
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.autoReplies": {
+        "Terminate batch job (Y/N)?": "Y\r"
+    },
     "terminal.integrated.fontFamily": "JetBrains Mono",
-    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.fontSize": 11,
 
     // Workbench
     "workbench.colorTheme": "Default Dark Modern",
