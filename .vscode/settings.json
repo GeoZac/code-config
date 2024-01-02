@@ -1,4 +1,13 @@
 {
+    // Explorer
+    "explorer.confirmDelete": false,
+    "explorer.fileNesting.enabled": true,
+
+    // Debug
+    "debug.console.fontFamily": "JetBrains Mono",
+    "debug.console.fontSize": 11,
+    "debug.console.lineHeight": 13,
+
     // Editor
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 13,
@@ -17,6 +26,10 @@
     "editor.linkedEditing": true,
     "editor.snippetSuggestions": "top",
     "editor.indentSize": "tabSize",
+    "editor.renderControlCharacters": true,
+    "editor.renderFinalNewline": "off",
+    "editor.accessibilitySupport": "off",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
 
     // Files
     "files.eol": "\n",
