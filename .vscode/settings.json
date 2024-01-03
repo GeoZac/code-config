@@ -35,6 +35,14 @@
     "files.eol": "\n",
     "files.insertFinalNewline": true,
     "files.autoSave": "afterDelay",
+   // Redhat
+    "redhat.telemetry.enabled": false,
+
+    // Security
+    "security.workspace.trust.untrustedFiles": "open",
+
+    // Telemetry
+    "telemetry.telemetryLevel": "off",
 
     // Terminal
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
