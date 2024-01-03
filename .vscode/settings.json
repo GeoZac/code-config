@@ -35,6 +35,20 @@
     "files.eol": "\n",
     "files.insertFinalNewline": true,
     "files.autoSave": "afterDelay",
+
+    // Maven
+    "maven.executable.preferMavenWrapper": true,
+    "maven.terminal.favorites": [
+        {
+            "alias": "clean-install",
+            "command": "clean install"
+        },
+        {
+            "alias": "run-here",
+            "command": "spring-boot:run"
+        }
+    ],
+
    // Redhat
     "redhat.telemetry.enabled": false,
 
