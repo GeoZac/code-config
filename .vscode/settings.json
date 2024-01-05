@@ -32,9 +32,15 @@
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
 
     // Files
+    "files.autoSave": "afterDelay",
+    "files.trimTrailingWhitespace": false,
     "files.eol": "\n",
     "files.insertFinalNewline": true,
-    "files.autoSave": "afterDelay",
+
+    // Git
+    "git.openRepositoryInParentFolders": "always",
+    "git.ignoreMissingGitWarning": true,
+    "git.autofetch": true,
 
     // Maven
     "maven.executable.preferMavenWrapper": true,
@@ -48,6 +54,10 @@
             "command": "spring-boot:run"
         }
     ],
+
+    // Python
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
 
    // Redhat
     "redhat.telemetry.enabled": false,
@@ -68,4 +78,5 @@
 
     // Workbench
     "workbench.colorTheme": "Default Dark Modern",
+    "workbench.tree.renderIndentGuides": "always",
 }
